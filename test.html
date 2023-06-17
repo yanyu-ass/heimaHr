@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<script>
+  let a= 4
+  const b=3
+  const promise = new Promise((resolve,reject)=>{
+    console.log(a)
+    a=8
+    console.log(b)
+    b=9
+    resolve()
+  })
+  promise.then(()=>{
+      console.log(a)
+  })
+  console.log(b)
+</script>
+</body>
+</html>

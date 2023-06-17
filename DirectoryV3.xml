@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <trees>
+     <tree path="/src/api" title="存放接口" extension="" presentableText="" tooltipTitle="" icon="" textColor=""
+           backgroundColor=""/>
+   <tree path="/src/assets" title="静态资源"/>
+   <tree path="/src/components" title="全局组件"/>
+   <tree path="/src/icons" title="图标"/>
+   <tree path="/src/layout" title="布局"/>
+   <tree path="/src/router" title="路由"/>
+   <tree path="/src/store" title="vuex"/>
+   <tree path="/src/styles" title="样式"/>
+   <tree path="/src/utils" title="工具"/>
+   <tree path="/src/views" title="页面"/>
+    <tree path="/src/permission.js" title="权限管理模块"/>
+    <tree path="/src/router/modules/employee.js" title="员工-路由"/>
+  <tree path="/src/router/modules/approval.js" title="审批-路由"/>
+  <tree path="/src/router/modules/attendance.js" title="考勤-路由"/>
+  <tree path="/src/router/modules/department.js" title="组织-路由" extension="" presentableText="" tooltipTitle=""
+        icon="" textColor="" backgroundColor=""/>
+  <tree path="/src/router/modules/permission.js" title="权限-路由"/>
+  <tree path="/src/router/modules/role.js" title="角色-路由"/>
+  <tree path="/src/router/modules/salary.js" title="工资-路由"/>
+  <tree path="/src/router/modules/social.js" title="社保-路由"/>
+  <tree path="/src/views/approval" title="审批管理" extension="" presentableText="" tooltipTitle="" icon="" textColor=""
+        backgroundColor=""/>
+  <tree path="/src/views/attendance" title="考勤管理" extension="" presentableText="" tooltipTitle="" icon=""
+        textColor="" backgroundColor=""/>
+  <tree path="/src/views/dashboard" title="首页" extension="" presentableText="" tooltipTitle="" icon=""
+        textColor="" backgroundColor=""/>
+  <tree path="/src/views/department" title="组织架构" extension="" presentableText="" tooltipTitle="" icon=""
+        textColor="" backgroundColor=""/>
+  <tree path="/src/views/employee" title="员工管理" extension="" presentableText="" tooltipTitle="" icon="" textColor=""
+        backgroundColor=""/>
+  <tree path="/src/views/login" title="登录"/>
+  <tree path="/src/views/permission" title="权限管理"/>
+  <tree path="/src/views/role" title="角色管理"/>
+  <tree path="/src/views/salary" title="工资管理"/>
+  <tree path="/src/views/social" title="社保管理"/>
+</trees>
