@@ -1,6 +1,6 @@
 <template>
   <div>
-123456dfddfgd
+123456
   </div>
 </template>
 
